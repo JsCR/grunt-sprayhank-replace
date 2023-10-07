@@ -1,7 +1,7 @@
 # grunt-replace
 
 [![Build Status](https://img.shields.io/github/workflow/status/outaTiME/grunt-replace/CI)](https://github.com/outaTiME/grunt-replace/actions/workflows/main.yml)
-[![Version](https://img.shields.io/npm/v/grunt-replace.svg)](https://www.npmjs.com/package/grunt-replace)
+[![Version](https://img.shields.io/npm/v/grunt-sprayhank-replace.svg)](https://www.npmjs.com/package/grunt-replace)
 ![Prerequisite](https://img.shields.io/badge/node-%3E%3D10-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
@@ -14,7 +14,7 @@
 From NPM:
 
 ```shell
-npm install grunt-replace --save-dev
+npm install grunt-sprayhank-replace --save-dev
 ```
 
 ## Usage
