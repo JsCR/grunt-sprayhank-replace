@@ -1,4 +1,4 @@
-# grunt-replace
+# grunt-sprayhank-replace
 
 [![Build Status](https://img.shields.io/github/workflow/status/outaTiME/grunt-replace/CI)](https://github.com/outaTiME/grunt-replace/actions/workflows/main.yml)
 [![Version](https://img.shields.io/npm/v/grunt-sprayhank-replace.svg)](https://www.npmjs.com/package/grunt-replace)
@@ -19,7 +19,7 @@ npm install grunt-sprayhank-replace --save-dev
 
 ## Usage
 
-Assuming installation via NPM, you can use `grunt-replace` in your gruntfile like this:
+Assuming installation via NPM, you can use `grunt-sprayhank-replace` in your gruntfile like this:
 
 ```javascript
 module.exports = function (grunt) {
@@ -42,7 +42,7 @@ module.exports = function (grunt) {
       }
     }
   });
-  grunt.loadNpmTasks('grunt-replace');
+  grunt.loadNpmTasks('grunt-sprayhank-replace');
   grunt.registerTask('default', ['replace']);
 };
 ```
