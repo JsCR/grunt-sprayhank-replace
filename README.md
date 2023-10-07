@@ -5,7 +5,7 @@
 ![Prerequisite](https://img.shields.io/badge/node-%3E%3D10-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![Twitter: outa7iME](https://img.shields.io/twitter/follow/outa7iME.svg?style=social)](https://twitter.com/outa7iME)
+[![Twitter: BOZZ671064591](https://img.shields.io/twitter/follow/BOZZ671064591.svg?style=social)](https://twitter.com/BOZZ671064591)
 
 > Replace text patterns with [applause](https://github.com/outaTiME/applause).
 
